@@ -1,1 +1,1 @@
-# mtg_combo_picker
+Pick your Brawl Commander with this fun Magic the Gathering themed app. Choose from 5 Planes walkers <br> representing each mana color, and stick around for a hidden pick. This project includes front end JavaScript.
