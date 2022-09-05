@@ -68,7 +68,7 @@ function negate(){
 
 function thoughtSeize(){
     document.querySelector('body').style.backgroundImage = 'url(././img/Background/lili.jpg)';
-    document.querySelector('h1').style.color ='#ECE4E1'
+    document.querySelector('h1').style.color ='black'
     
     ajani.classList.add('hidden')
     jace.classList.add('hidden')
